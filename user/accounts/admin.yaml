@@ -1,0 +1,11 @@
+email: jaclyn@superstarbabies.com
+fullname: 'Jackie Rubly'
+title: admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$Lap9PI8AXXavD7.WC4y7FetFhxqx/rSBzt3e8hwGzacSv57FMnI2q
